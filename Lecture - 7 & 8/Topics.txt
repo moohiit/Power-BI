@@ -1,0 +1,19 @@
+
+
+
+******Topics*********
+
+Data Source Settings
+Columns Format
+Fill
+Transpose
+Pivot 
+Unpivot
+Merge
+Custom Column
+Conditional Column
+Column from examples
+Index Column
+Parameters
+Manage & Create Relationships
+

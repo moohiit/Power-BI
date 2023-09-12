@@ -1,0 +1,35 @@
+ERP - SAP, NAV, AX, Business Central, Tally
+
+CRM - Sales Force, Microsoft CRM
+
+BI  - Power BI, Tableau ......
+
+SSBI - Self Service Business Intelligence
+
+Power BI  -- Microsoft -- Oct,15 -- New Updates every month
+
+*****Power BI Components *****
+Power BI Desktop  -- Develop Data Model (ETL operations), Reports
+Power BI Service (Cloud Power BI) -- Cloud Web Interface, Interact report, Develop Dashboards, Sharing, Admin Control, Mobile Dashboards Design, etc
+Power BI Data Gateway  - Helps to enable scheduled data refresh in data sets, reports, dashboards
+Power BI Report Server (On Premises Power BI) - Alternate of Power BI Service,  On Prem Web Interface, Interact reports, Admin Control, SQL Agent Jobs
+Power BI Mobile App - Interact reports & Dashboards, sharing
+Power BI Excel Publisher -- Intergrate Excel and Power BI
+Power BI Report Builder -- Develop Paginated Reports, Pixel Perfect Report, For Ex: Invoices, Receipts, Devliery Notes
+
+Power BI Embedded (Overview) -- Integration of Power BI reports & Dashboards in Other applications (Sharepoint, CRM, ERP, Website, Blog, Mobile App, etc)  ---- C#, Java, Python, etc --- Using API (Application Programming Interface)
+
+
+
+ETL - (Extract Transform Load) :  
+Excel : Extract , Transform, Load
+
+250 MB Invoices
+10-20 MB
+
+Power BI Free  -- Individual use, limited features, cant share   ---- 0$
+Power BI Pro -- Free + Advanced features (Sharing, Bulk Sharing, Data Refresh, Email Subcriptions, Data Alerts, Worskspaces, etc)  ---- $10/user/month
+Power BI Premium  --  Pro + More Advanced features (AI , ML, Enterprise usage, large user base) -- $5000 Per Node Per Month ($60000)
+
+
+SAAS  - Software As A Service

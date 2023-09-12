@@ -1,0 +1,7 @@
+Download Data Gateway (Standard/Personal)
+Install Data Gateway 
+Configure DG (Define Name & Recovery Key)
+Login DG to run service
+Add Data Source under Data Gateway Clusters (From Settings --> Manage Gateway)
+Enable DG Connection for Datasets (From Dataset >> Schedule Refresh)
+Set data fresh frequency (From Schedule Refresh) or You can do manual refresh.
